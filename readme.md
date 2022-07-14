@@ -48,6 +48,7 @@
 To get a local copy up and running follow these simple example steps.
 
 ```
+Segue la: https://www.instagram.com/matheusesus/
 $ cd ignite-react-native/streamdata
 $ expo install
 $ expo start
